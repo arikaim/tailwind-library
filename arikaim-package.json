@@ -1,6 +1,6 @@
 {   
     "title": "Tailwindcss",
-    "version": "1.4.8",
+    "version": "1.4.9",
     "name": "tailwind",
     "package-type": "library",
     "help": "https://tailwindcss.com/docs/installation/",
@@ -30,6 +30,21 @@
             "files": [
                 "tailwind-1.4.6.min.css"   
             ]
-        } 
+        },
+        "utility": {
+            "files": [
+                "tailwind-utility-full.min.css"   
+            ]
+        },
+        "layout": {
+            "files": [
+                "tailwind-layout.min.css"   
+            ]
+        },
+        "size": {
+            "files": [
+                "tailwind-size.min.css"   
+            ]
+        }
     }
 }

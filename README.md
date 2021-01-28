@@ -9,9 +9,8 @@
   * [Arikaim CMS](https://github.com/arikaim/arikaim)
   
 
-#### Install
-```bash
+#### Installation
 
+```sh
 composer require arikaim/tailwind-library
-
 ```

@@ -1,6 +1,6 @@
 {   
     "title": "Tailwindcss",
-    "version": "1.4.10",
+    "version": "1.4.11",
     "name": "tailwind",
     "package-type": "library",
     "help": "https://tailwindcss.com/docs/installation/",
@@ -45,6 +45,11 @@
             "files": [
                 "tailwind-size.min.css"   
             ]
+        },
+        "align": {
+            "files": [
+                "tailwind-align.min.css"   
+            ]            
         }
     }
 }

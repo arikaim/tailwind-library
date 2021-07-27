@@ -1,6 +1,6 @@
 {   
     "title": "Tailwindcss",
-    "version": "1.4.12",
+    "version": "1.4.13",
     "name": "tailwind",
     "package-type": "library",
     "help": "https://tailwindcss.com/docs/installation/",
@@ -11,6 +11,16 @@
         "tailwind-utility-slim.min.css"       
     ],
     "versions": {
+        "space": {
+            "files": [
+                "tailwind-space.min.css"   
+            ]
+        },
+        "border": {
+            "files": [
+                "tailwind-border.min.css"   
+            ]
+        },
         "animation": {
             "files": [
                 "tailwind-animation.min.css"   

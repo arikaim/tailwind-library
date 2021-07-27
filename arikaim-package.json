@@ -11,6 +11,11 @@
         "tailwind-utility-slim.min.css"       
     ],
     "versions": {
+        "effects": {
+            "files": [
+                "tailwind-effects.min.css"   
+            ]
+        },
         "text": {
             "files": [
                 "tailwind-text.min.css"   

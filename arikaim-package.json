@@ -1,6 +1,6 @@
 {   
     "title": "Tailwindcss",
-    "version": "1.4.14",
+    "version": "1.4.15",
     "name": "tailwind",
     "package-type": "library",
     "help": "https://tailwindcss.com/docs/installation/",

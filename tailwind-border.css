@@ -1677,6 +1677,46 @@
   border-width: 1px
 }
 
+.hover\:border-0:hover {
+  border-width: 0px
+}
+
+.hover\:border-2:hover {
+  border-width: 2px
+}
+
+.hover\:border-4:hover {
+  border-width: 4px
+}
+
+.hover\:border-8:hover {
+  border-width: 8px
+}
+
+.hover\:border:hover {
+  border-width: 1px
+}
+
+.focus\:border-0:focus {
+  border-width: 0px
+}
+
+.focus\:border-2:focus {
+  border-width: 2px
+}
+
+.focus\:border-4:focus {
+  border-width: 4px
+}
+
+.focus\:border-8:focus {
+  border-width: 8px
+}
+
+.focus\:border:focus {
+  border-width: 1px
+}
+
 .border-t-0 {
   border-top-width: 0px
 }
@@ -1757,6 +1797,166 @@
   border-left-width: 1px
 }
 
+.hover\:border-t-0:hover {
+  border-top-width: 0px
+}
+
+.hover\:border-t-2:hover {
+  border-top-width: 2px
+}
+
+.hover\:border-t-4:hover {
+  border-top-width: 4px
+}
+
+.hover\:border-t-8:hover {
+  border-top-width: 8px
+}
+
+.hover\:border-t:hover {
+  border-top-width: 1px
+}
+
+.hover\:border-r-0:hover {
+  border-right-width: 0px
+}
+
+.hover\:border-r-2:hover {
+  border-right-width: 2px
+}
+
+.hover\:border-r-4:hover {
+  border-right-width: 4px
+}
+
+.hover\:border-r-8:hover {
+  border-right-width: 8px
+}
+
+.hover\:border-r:hover {
+  border-right-width: 1px
+}
+
+.hover\:border-b-0:hover {
+  border-bottom-width: 0px
+}
+
+.hover\:border-b-2:hover {
+  border-bottom-width: 2px
+}
+
+.hover\:border-b-4:hover {
+  border-bottom-width: 4px
+}
+
+.hover\:border-b-8:hover {
+  border-bottom-width: 8px
+}
+
+.hover\:border-b:hover {
+  border-bottom-width: 1px
+}
+
+.hover\:border-l-0:hover {
+  border-left-width: 0px
+}
+
+.hover\:border-l-2:hover {
+  border-left-width: 2px
+}
+
+.hover\:border-l-4:hover {
+  border-left-width: 4px
+}
+
+.hover\:border-l-8:hover {
+  border-left-width: 8px
+}
+
+.hover\:border-l:hover {
+  border-left-width: 1px
+}
+
+.focus\:border-t-0:focus {
+  border-top-width: 0px
+}
+
+.focus\:border-t-2:focus {
+  border-top-width: 2px
+}
+
+.focus\:border-t-4:focus {
+  border-top-width: 4px
+}
+
+.focus\:border-t-8:focus {
+  border-top-width: 8px
+}
+
+.focus\:border-t:focus {
+  border-top-width: 1px
+}
+
+.focus\:border-r-0:focus {
+  border-right-width: 0px
+}
+
+.focus\:border-r-2:focus {
+  border-right-width: 2px
+}
+
+.focus\:border-r-4:focus {
+  border-right-width: 4px
+}
+
+.focus\:border-r-8:focus {
+  border-right-width: 8px
+}
+
+.focus\:border-r:focus {
+  border-right-width: 1px
+}
+
+.focus\:border-b-0:focus {
+  border-bottom-width: 0px
+}
+
+.focus\:border-b-2:focus {
+  border-bottom-width: 2px
+}
+
+.focus\:border-b-4:focus {
+  border-bottom-width: 4px
+}
+
+.focus\:border-b-8:focus {
+  border-bottom-width: 8px
+}
+
+.focus\:border-b:focus {
+  border-bottom-width: 1px
+}
+
+.focus\:border-l-0:focus {
+  border-left-width: 0px
+}
+
+.focus\:border-l-2:focus {
+  border-left-width: 2px
+}
+
+.focus\:border-l-4:focus {
+  border-left-width: 4px
+}
+
+.focus\:border-l-8:focus {
+  border-left-width: 8px
+}
+
+.focus\:border-l:focus {
+  border-left-width: 1px
+}
+
 .border-solid {
   border-style: solid
 }
@@ -1774,6 +1974,46 @@
 }
 
 .border-none {
+  border-style: none
+}
+
+.hover\:border-solid:hover {
+  border-style: solid
+}
+
+.hover\:border-dashed:hover {
+  border-style: dashed
+}
+
+.hover\:border-dotted:hover {
+  border-style: dotted
+}
+
+.hover\:border-double:hover {
+  border-style: double
+}
+
+.hover\:border-none:hover {
+  border-style: none
+}
+
+.focus\:border-solid:focus {
+  border-style: solid
+}
+
+.focus\:border-dashed:focus {
+  border-style: dashed
+}
+
+.focus\:border-dotted:focus {
+  border-style: dotted
+}
+
+.focus\:border-double:focus {
+  border-style: double
+}
+
+.focus\:border-none:focus {
   border-style: none
 }
 
@@ -3088,6 +3328,126 @@
 }
 
 .border-opacity-100 {
+  --tw-border-opacity: 1
+}
+
+.hover\:border-opacity-0:hover {
+  --tw-border-opacity: 0
+}
+
+.hover\:border-opacity-5:hover {
+  --tw-border-opacity: 0.05
+}
+
+.hover\:border-opacity-10:hover {
+  --tw-border-opacity: 0.1
+}
+
+.hover\:border-opacity-20:hover {
+  --tw-border-opacity: 0.2
+}
+
+.hover\:border-opacity-25:hover {
+  --tw-border-opacity: 0.25
+}
+
+.hover\:border-opacity-30:hover {
+  --tw-border-opacity: 0.3
+}
+
+.hover\:border-opacity-40:hover {
+  --tw-border-opacity: 0.4
+}
+
+.hover\:border-opacity-50:hover {
+  --tw-border-opacity: 0.5
+}
+
+.hover\:border-opacity-60:hover {
+  --tw-border-opacity: 0.6
+}
+
+.hover\:border-opacity-70:hover {
+  --tw-border-opacity: 0.7
+}
+
+.hover\:border-opacity-75:hover {
+  --tw-border-opacity: 0.75
+}
+
+.hover\:border-opacity-80:hover {
+  --tw-border-opacity: 0.8
+}
+
+.hover\:border-opacity-90:hover {
+  --tw-border-opacity: 0.9
+}
+
+.hover\:border-opacity-95:hover {
+  --tw-border-opacity: 0.95
+}
+
+.hover\:border-opacity-100:hover {
+  --tw-border-opacity: 1
+}
+
+.focus\:border-opacity-0:focus {
+  --tw-border-opacity: 0
+}
+
+.focus\:border-opacity-5:focus {
+  --tw-border-opacity: 0.05
+}
+
+.focus\:border-opacity-10:focus {
+  --tw-border-opacity: 0.1
+}
+
+.focus\:border-opacity-20:focus {
+  --tw-border-opacity: 0.2
+}
+
+.focus\:border-opacity-25:focus {
+  --tw-border-opacity: 0.25
+}
+
+.focus\:border-opacity-30:focus {
+  --tw-border-opacity: 0.3
+}
+
+.focus\:border-opacity-40:focus {
+  --tw-border-opacity: 0.4
+}
+
+.focus\:border-opacity-50:focus {
+  --tw-border-opacity: 0.5
+}
+
+.focus\:border-opacity-60:focus {
+  --tw-border-opacity: 0.6
+}
+
+.focus\:border-opacity-70:focus {
+  --tw-border-opacity: 0.7
+}
+
+.focus\:border-opacity-75:focus {
+  --tw-border-opacity: 0.75
+}
+
+.focus\:border-opacity-80:focus {
+  --tw-border-opacity: 0.8
+}
+
+.focus\:border-opacity-90:focus {
+  --tw-border-opacity: 0.9
+}
+
+.focus\:border-opacity-95:focus {
+  --tw-border-opacity: 0.95
+}
+
+.focus\:border-opacity-100:focus {
   --tw-border-opacity: 1
 }
 
